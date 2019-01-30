@@ -1,0 +1,5 @@
+no1=int(input())
+no2=int(input())
+no3=int(input())
+lar=max(no1,no2,no3)
+print(lar)
